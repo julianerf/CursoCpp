@@ -1,0 +1,2 @@
+E:\ProgramasVS\ArrayParaFuncoes\Debug\ArrayParaFuncoes.exe
+E:\ProgramasVS\ArrayParaFuncoes\Debug\ArrayParaFuncoes.pdb

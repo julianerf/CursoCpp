@@ -1,0 +1,14 @@
+CPLUSPLUS Forum exercises:
+
+[ ] Grading Program
+[ ] Cola Machine
+[ ] While( user == gullible )
+[ ] Pancake Glutton
+[ ] Bracketing Search
+[ ] Tic Tac Toe
+[ ] Dungeon Crawl
+[ ] Fun with Functions
+[ ] Strings are your friends, until they betray you.
+[ ] Graduation (projeto grande)
+
+

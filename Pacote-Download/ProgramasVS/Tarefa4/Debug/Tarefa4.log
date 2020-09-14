@@ -1,0 +1,3 @@
+﻿  Tarefa4.cpp
+C:\Users\Ju RF\source\repos\Tarefa4\Tarefa4.cpp(11,14): warning C4305: '=': truncation from 'double' to 'float'
+  Tarefa4.vcxproj -> C:\Users\Ju RF\source\repos\Tarefa4\Debug\Tarefa4.exe

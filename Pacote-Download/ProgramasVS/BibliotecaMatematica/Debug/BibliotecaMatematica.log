@@ -1,0 +1,7 @@
+﻿  BibliotecaMatematica.cpp
+C:\Users\Ju RF\source\repos\BibliotecaMatematica\BibliotecaMatematica.cpp(16,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ju RF\source\repos\BibliotecaMatematica\BibliotecaMatematica.cpp(17,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Matematica.cpp
+C:\Users\Ju RF\source\repos\BibliotecaMatematica\Matematica.cpp(29,12): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  BibliotecaMatematica.vcxproj -> C:\Users\Ju RF\source\repos\BibliotecaMatematica\Debug\BibliotecaMatematica.exe

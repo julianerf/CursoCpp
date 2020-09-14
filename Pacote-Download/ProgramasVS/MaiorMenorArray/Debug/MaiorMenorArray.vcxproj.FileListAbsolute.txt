@@ -1,0 +1,2 @@
+E:\ProgramasVS\MaiorMenorArray\Debug\MaiorMenorArray.exe
+E:\ProgramasVS\MaiorMenorArray\Debug\MaiorMenorArray.pdb

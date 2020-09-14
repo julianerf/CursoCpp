@@ -1,0 +1,3 @@
+﻿  ArrayMultidimensional.cpp
+E:\ProgramasVS\ArrayMultidimensional\ArrayMultidimensional.cpp(5,6): warning C4101: 'Matriz': unreferenced local variable
+  ArrayMultidimensional.vcxproj -> E:\ProgramasVS\ArrayMultidimensional\Debug\ArrayMultidimensional.exe

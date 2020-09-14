@@ -1,0 +1,2 @@
+E:\ProgramasVS\ArrayMultidimensional\Debug\ArrayMultidimensional.exe
+E:\ProgramasVS\ArrayMultidimensional\Debug\ArrayMultidimensional.pdb

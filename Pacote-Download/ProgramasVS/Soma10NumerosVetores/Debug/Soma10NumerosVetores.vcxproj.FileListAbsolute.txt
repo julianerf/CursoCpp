@@ -1,0 +1,4 @@
+C:\Users\Ju RF\source\repos\Soma10NumerosVetores\Debug\Soma10NumerosVetores.exe
+C:\Users\Ju RF\source\repos\Soma10NumerosVetores\Debug\Soma10NumerosVetores.pdb
+E:\ProgramasVS\Soma10NumerosVetores\Debug\Soma10NumerosVetores.exe
+E:\ProgramasVS\Soma10NumerosVetores\Debug\Soma10NumerosVetores.pdb

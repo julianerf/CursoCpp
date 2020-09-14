@@ -1,0 +1,10 @@
+﻿  Calculadora.cpp
+C:\Users\Ju RF\source\repos\ParImparFuncoes\Calculadora.cpp(22,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ju RF\source\repos\ParImparFuncoes\Calculadora.cpp(22,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ju RF\source\repos\ParImparFuncoes\Calculadora.cpp(23,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ju RF\source\repos\ParImparFuncoes\Calculadora.cpp(23,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ju RF\source\repos\ParImparFuncoes\Calculadora.cpp(24,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ju RF\source\repos\ParImparFuncoes\Calculadora.cpp(24,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ju RF\source\repos\ParImparFuncoes\Calculadora.cpp(25,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ju RF\source\repos\ParImparFuncoes\Calculadora.cpp(25,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ParImparFuncoes.vcxproj -> C:\Users\Ju RF\source\repos\ParImparFuncoes\Debug\ParImparFuncoes.exe
